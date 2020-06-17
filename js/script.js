@@ -25,7 +25,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Web Developer", "Freelancer", "Student"],
+        strings: ["FrontEnd Dev", "Freelancer", "Student" ,],
         typeSpeed: 50,
         loop: true,
         startDelay: 400,
